@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nomcebo Mtshali</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300;400;700;900&family=DM+Sans:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- CANVAS STARFIELD -->
+  <canvas id="stars"></canvas>
+
+  <!-- CURSOR -->
+  <div class="cursor-dot" id="cursorDot"></div>
+  <div class="cursor-ring" id="cursorRing"></div>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <div class="nav-logo">NM<span class="nav-logo-dot">.</span></div>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      <a href="#work">Work</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <div class="nav-status">
+      <span class="status-dot"></span>
+      <span>Available now</span>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <div class="hero-content">
+
+      <div class="hero-eyebrow">
+        <span class="eyebrow-line"></span>
+        <span>Developer · Johannesburg, ZA</span>
+        <span class="eyebrow-line"></span>
+      </div>
+
+      <div class="hero-name-wrap">
+        <div class="hero-name-row">
+          <span class="hero-n" id="heroN">NOMCEBO</span>
+        </div>
+        <div class="hero-name-row row-2">
+          <span class="hero-surname" id="heroSurname">MTSHALI</span>
+        </div>
+      </div>
+
+      <div class="hero-sub">
+        <div class="hero-tags">
+          <span class="tag">Web Dev</span>
+          <span class="tag tag-grad">Cybersecurity</span>
+          <span class="tag">Python</span>
+          <span class="tag">C#</span>
+          <span class="tag tag-grad">SQL</span>
+        </div>
+        <p class="hero-line">
+          I build things that work and things that matter.
+        </p>
+      </div>
+
+      <div class="hero-ctas">
+        <a href="#work" class="btn-glow">See My Work</a>
+        <a href="mailto:nomcebomtshali131@gmail.com" class="btn-ghost">Get In Touch</a>
+      </div>
+
+    </div>
+
+    <!-- FLOATING CARDS -->
+    <div class="float-card fc-1" data-float="1">
+      <span class="fc-icon">🛡</span>
+      <span class="fc-text">Cybersecurity</span>
+    </div>
+    <div class="float-card fc-2" data-float="2">
+      <span class="fc-icon">🐍</span>
+      <span class="fc-text">Python</span>
+    </div>
+    <div class="float-card fc-3" data-float="3">
+      <span class="fc-icon">🌍</span>
+      <span class="fc-text">Ubuntu Quiz</span>
+    </div>
+    <div class="float-card fc-4" data-float="4">
+      <span class="fc-icon">🏪</span>
+      <span class="fc-text">MzansiBiz</span>
+    </div>
+
+    <div class="scroll-hint">
+      <div class="scroll-wheel"></div>
+      <span>Scroll</span>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section about-section" id="about">
+    <div class="section-inner">
+      <div class="reveal-block">
+        <span class="s-num">01</span>
+        <h2 class="s-title">About Me</h2>
+      </div>
+
+      <div class="about-grid reveal-block">
+        <div class="about-text-col">
+          <p class="big-text">
+            I'm a self-driven developer from Johannesburg. I studied Software 
+            Development at Belgium Campus ITversity, reaching second year.
+          </p>
+          <p class="body-text">
+           The projects below are real things I made — a phishing detector, a township business 
+            directory, an African history quiz, a birthday experience for my mom. 
+            Each one taught me something new and something real.
+          </p>
+          <p class="body-text">
+            I'm looking for a learnership or internship where I can grow properly. 
+            I learn fast and I take the work seriously.
+          </p>
+        </div>
+
+        <div class="about-cards-col">
+          <div class="info-card">
+            <div class="ic-row">
+              <span class="ic-label">Based in</span>
+              <span class="ic-val">Johannesburg, ZA 🇿🇦</span>
+            </div>
+            <div class="ic-row">
+              <span class="ic-label">Focus</span>
+              <span class="ic-val">Web + Cybersecurity</span>
+            </div>
+            <div class="ic-row">
+              <span class="ic-label">Languages</span>
+              <span class="ic-val">JS · Python · C# · SQL</span>
+            </div>
+            <div class="ic-row">
+              <span class="ic-label">Status</span>
+              <span class="ic-val ic-green">Available immediately</span>
+            </div>
+          </div>
+
+          <div class="edu-card">
+            <div class="edu-item">
+              <div class="ei-year">2024–present</div>
+              <div>
+                <div class="ei-title">Software Development (2nd Year)</div>
+                <div class="ei-school">Belgium Campus ITversity</div>
+              </div>
+            </div>
+            <div class="edu-divider"></div>
+            <div class="edu-item">
+              <div class="ei-year">2023</div>
+              <div>
+                <div class="ei-title">National Senior Certificate</div>
+                <div class="ei-school">Jeppe Girls High School</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="grades-row">
+            <div class="grade-chip">
+              <span class="gc-num">71%</span>
+              <span class="gc-sub">Project Mgmt</span>
+            </div>
+            <div class="grade-chip">
+              <span class="gc-num">67%</span>
+              <span class="gc-sub">Databases</span>
+            </div>
+            <div class="grade-chip">
+              <span class="gc-num">65%</span>
+              <span class="gc-sub">Web Prog</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WORK -->
+  <section class="section work-section" id="work">
+    <div class="section-inner">
+      <div class="reveal-block">
+        <span class="s-num">02</span>
+        <h2 class="s-title">Projects</h2>
+      </div>
+
+      <div class="projects">
+
+        <div class="proj-card reveal-block" data-index="0">
+          <div class="pc-top">
+            <div class="pc-num">01</div>
+            <div class="pc-tags">
+              <span>Cybersecurity</span><span>JavaScript</span>
+            </div>
+          </div>
+          <h3 class="pc-name">PhishGuard</h3>
+          <p class="pc-desc">Browser-based email threat analyser. Scans across 6 attack categories — urgency tactics, credential harvesting, fake domains, suspicious links. Returns a 0–100% threat score with colour-coded flags.</p>
+          <div class="pc-tech">47+ patterns · Pure JS · No libraries</div>
+          <div class="pc-links">
+            <a href="https://github.com/nomcebom-dev/phishguard" target="_blank" class="pc-link">GitHub ↗</a>
+            <a href="https://nomcebom-dev.github.io/Phishguard/" target="_blank" class="pc-link pc-link-glow">Live ↗</a>
+          </div>
+          <div class="pc-glow"></div>
+        </div>
+
+        <div class="proj-card reveal-block" data-index="1">
+          <div class="pc-top">
+            <div class="pc-num">02</div>
+            <div class="pc-tags">
+              <span>Community</span><span>JavaScript</span>
+            </div>
+          </div>
+          <h3 class="pc-name">MzansiBiz</h3>
+          <p class="pc-desc">Searchable directory of small businesses across South African townships — Soweto, Alex, Khayelitsha, Tembisa, Umlazi, Mamelodi. 48 listings, live search, multi-filter. Built because this should exist.</p>
+          <div class="pc-tech">48 businesses · Live search · SA focused</div>
+          <div class="pc-links">
+            <a href="https://github.com/nomcebom-dev/mzansi-biz" target="_blank" class="pc-link">GitHub ↗</a>
+            <a href="https://nomcebom-dev.github.io/mzansi-biz" target="_blank" class="pc-link pc-link-glow">Live ↗</a>
+          </div>
+          <div class="pc-glow"></div>
+        </div>
+
+        <div class="proj-card reveal-block" data-index="2">
+          <div class="pc-top">
+            <div class="pc-num">03</div>
+            <div class="pc-tags">
+              <span>Game</span><span>JavaScript</span>
+            </div>
+          </div>
+          <h3 class="pc-name">Ubuntu Quiz</h3>
+          <p class="pc-desc">Interactive quiz about African history and culture. 30 questions across 6 categories. Three difficulty levels, countdown timer, real historical facts after every answer, full score breakdown.</p>
+          <div class="pc-tech">30 questions · Timer + bonus · 3 difficulty levels</div>
+          <div class="pc-links">
+            <a href="https://github.com/nomcebom-dev/ubuntu-quiz" target="_blank" class="pc-link">GitHub ↗</a>
+            <a href="https://nomcebom-dev.github.io/ubuntu-quiz" target="_blank" class="pc-link pc-link-glow">Live ↗</a>
+          </div>
+          <div class="pc-glow"></div>
+        </div>
+
+        <div class="proj-card reveal-block" data-index="3">
+          <div class="pc-top">
+            <div class="pc-num">04</div>
+            <div class="pc-tags">
+              <span>Creative</span><span>Canvas API</span>
+            </div>
+          </div>
+          <h3 class="pc-name">MomVerse</h3>
+          <p class="pc-desc">Multi-scene interactive birthday experience. Canvas particle starfield, progressive memory unlocking, interactive candles, background music with fade transitions, personal voice message. Built for one person.</p>
+          <div class="pc-tech">Canvas · Web Audio · Scroll narrative</div>
+          <div class="pc-links">
+            <a href="https://github.com/nomcebom-dev/momverse" target="_blank" class="pc-link">GitHub ↗</a>
+            <a href="https://nomcebom-dev.github.io/momverse" target="_blank" class="pc-link pc-link-glow">Live ↗</a>
+          </div>
+          <div class="pc-glow"></div>
+        </div>
+
+        <div class="proj-card reveal-block" data-index="4">
+          <div class="pc-top">
+            <div class="pc-num">05</div>
+            <div class="pc-tags">
+              <span>IoT</span><span>JavaScript</span>
+            </div>
+          </div>
+          <h3 class="pc-name">NexaHome</h3>
+          <p class="pc-desc">Real-time IoT smart home monitoring dashboard. 4 rooms with live temperature, humidity, AQI and motion sensors updating every 3 seconds. Automated threshold alerts, device controls, Canvas line chart and 4 dashboard views — built entirely in vanilla JavaScript.</p>
+          <div class="pc-tech">Canvas API · IoT simulation · Real-time alerts · Device controls</div>
+          <div class="pc-links">
+            <a href="https://github.com/nomcebom-dev/smarthome-dashboard" target="_blank" class="pc-link">GitHub ↗</a>
+            <a href="https://nomcebom-dev.github.io/smarthome-dashboard" target="_blank" class="pc-link pc-link-glow">Live ↗</a>
+          </div>
+          <div class="pc-glow"></div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="section skills-section" id="skills">
+    <div class="section-inner">
+      <div class="reveal-block">
+        <span class="s-num">03</span>
+        <h2 class="s-title">Skills</h2>
+      </div>
+
+      <div class="skills-wrap reveal-block">
+        <div class="skills-col">
+          <div class="sk-group-title">Languages</div>
+          <div class="sk-list">
+            <div class="sk-item"><span class="sk-icon">🌐</span><span class="sk-name">HTML5 &amp; CSS3</span><div class="sk-bar"><div class="sk-fill" style="--p:78%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">⚡</span><span class="sk-name">JavaScript</span><div class="sk-bar"><div class="sk-fill" style="--p:72%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">🐍</span><span class="sk-name">Python</span><div class="sk-bar"><div class="sk-fill" style="--p:60%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">⬡</span><span class="sk-name">C#</span><div class="sk-bar"><div class="sk-fill" style="--p:55%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">🗄</span><span class="sk-name">SQL</span><div class="sk-bar"><div class="sk-fill" style="--p:65%"></div></div></div>
+          </div>
+        </div>
+
+        <div class="skills-col">
+          <div class="sk-group-title">Cybersecurity</div>
+          <div class="sk-list">
+            <div class="sk-item"><span class="sk-icon">🛡</span><span class="sk-name">Network Security</span><div class="sk-bar"><div class="sk-fill" style="--p:60%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">🔍</span><span class="sk-name">Threat Detection</span><div class="sk-bar"><div class="sk-fill" style="--p:58%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">⚖</span><span class="sk-name">IT Law &amp; Ethics</span><div class="sk-bar"><div class="sk-fill" style="--p:70%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">🐧</span><span class="sk-name">Linux / SUSE</span><div class="sk-bar"><div class="sk-fill" style="--p:45%"></div></div></div>
+          </div>
+
+          <div class="sk-group-title" style="margin-top:32px">Other</div>
+          <div class="sk-list">
+            <div class="sk-item"><span class="sk-icon">🔗</span><span class="sk-name">Networking</span><div class="sk-bar"><div class="sk-fill" style="--p:65%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">🧪</span><span class="sk-name">Software Testing</span><div class="sk-bar"><div class="sk-fill" style="--p:62%"></div></div></div>
+            <div class="sk-item"><span class="sk-icon">📡</span><span class="sk-name">IoT Concepts</span><div class="sk-bar"><div class="sk-fill" style="--p:58%"></div></div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="seeking-wrap reveal-block">
+        <div class="seeking-title">Open to</div>
+        <div class="seeking-pills">
+          <span>Cybersecurity Learnership</span>
+          <span>Junior Web Developer</span>
+          <span>IT Graduate Programme</span>
+          <span>QA / Software Testing</span>
+          <span>IT Governance &amp; Analytics</span>
+          <span>IT Support / Helpdesk</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section contact-section" id="contact">
+    <div class="section-inner">
+      <div class="contact-wrap reveal-block">
+        <span class="s-num">04</span>
+        <h2 class="contact-heading">
+          Let's<br><span class="ch-grad">talk.</span>
+        </h2>
+        <p class="contact-body">
+          I'm available immediately. If you're running a learnership, 
+          graduate programme, or have a junior role — I want to hear from you.
+        </p>
+        <a href="mailto:nomcebomtshali131@gmail.com" class="contact-btn">
+          <span>nomcebomtshali131@gmail.com</span>
+          <span class="cb-arrow">↗</span>
+        </a>
+        <div class="contact-row">
+          <a href="tel:0617873569">061 787 3569</a>
+          <span class="cr-sep">·</span>
+          <a href="https://github.com/nomcebom-dev" target="_blank">GitHub ↗</a>
+          <span class="cr-sep">·</span>
+          <a href="assets/Nomcebom-dev_CV.pdf" download>Download CV ↓</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <span>© 2025 Nomcebo Langelihle Mtshali</span>
+    <span>Built by hand · Johannesburg, South Africa</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
