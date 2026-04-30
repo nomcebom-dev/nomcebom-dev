@@ -42,9 +42,7 @@ a {
   cursor: none;
 }
 
-/* =============================================
-   STARFIELD CANVAS
-   ============================================= */
+/*STARFIELD CANVAS*/
 
 #stars {
   position: fixed;
@@ -56,9 +54,7 @@ a {
   pointer-events: none; /* so clicks go through it */
 }
 
-/* =============================================
-   CUSTOM CURSOR
-   ============================================= */
+/*CUSTOM CURSOR */
 
 .cursor-dot {
   position: fixed;
@@ -85,9 +81,7 @@ a {
   transition: width 0.3s ease, height 0.3s ease, border-color 0.3s ease;
 }
 
-/* =============================================
-   NAVIGATION
-   ============================================= */
+/* NAVIGATION */
 
 .nav {
   position: fixed;
@@ -176,9 +170,7 @@ a {
   50%       { opacity: 0.3; }
 }
 
-/* =============================================
-   HERO
-   ============================================= */
+/*HERO*/
 
 .hero {
   position: relative;
@@ -399,9 +391,7 @@ a {
   background: rgba(45, 221, 255, 0.05);
 }
 
-/* =============================================
-   FLOATING CARDS (hero decoration)
-   ============================================= */
+/* FLOATING CARDS (hero decoration)*/
 
 .float-card {
   position: absolute;
@@ -478,9 +468,7 @@ a {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-/* =============================================
-   SHARED SECTION STYLES
-   ============================================= */
+/*SHARED SECTION STYLES*/
 
 .section {
   position: relative;
@@ -526,9 +514,7 @@ a {
   transform: none;
 }
 
-/* =============================================
-   ABOUT SECTION
-   ============================================= */
+/*ABOUT SECTION*/
 
 .about-section {
   background: var(--black-2);
@@ -676,9 +662,7 @@ a {
   color: var(--grey);
 }
 
-/* =============================================
-   PROJECTS SECTION
-   ============================================= */
+/*PROJECTS SECTION*/
 
 .work-section {
   background: var(--black);
@@ -819,9 +803,7 @@ a {
   color: var(--black);
 }
 
-/* =============================================
-   SKILLS SECTION
-   ============================================= */
+/*SKILLS SECTION*/
 
 .skills-section {
   background: var(--black-2);
@@ -927,9 +909,7 @@ a {
   background: rgba(255, 45, 155, 0.08);
 }
 
-/* =============================================
-   CONTACT SECTION
-   ============================================= */
+/*CONTACT SECTION*/
 
 .contact-section {
   background: var(--black);
@@ -1018,9 +998,7 @@ a {
   color: var(--grey-dark);
 }
 
-/* =============================================
-   FOOTER
-   ============================================= */
+/*FOOTER*/
 
 .footer {
   position: relative;
@@ -1037,9 +1015,7 @@ a {
   color: var(--grey-dark);
 }
 
-/* =============================================
-   RESPONSIVE — smaller screens
-   ============================================= */
+/*RESPONSIVE — smaller screens*/
 
 @media (max-width: 1100px) {
   .projects-grid { grid-template-columns: 1fr 1fr; }
