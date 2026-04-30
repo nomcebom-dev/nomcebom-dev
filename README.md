@@ -12,7 +12,7 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 | Project | Description | Live |
 |---|---|---|
 | MomVerse | Email phishing detection tool — 47+ detection patterns | [Live](https://nomcebom-dev.github.io/momverse/) |
-| Calculator | Real-time IoT smart home monitoring dashboard | [Live](https://nomcebom-dev.github.io/Calculator) |
+| Calculator | Real-time IoT smart home monitoring dashboard | [Live](https://nomcebom-dev.github.io/Calculator/) |
 | MzansiBiz | Township business directory — 48 listings, live search | [Live](https://nomcebom-dev.github.io/mzansi-biz) |
 | ai animated lecturer-portfolio | AI-Assisted Animated Lecturer Portfolio Website — live lecturer portfolio website | [Live](https://nomcebom-dev.github.io/ai-animated-lecturer-portfolio) |
 
