@@ -11,11 +11,11 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 ## 🚀 Projects
 | Project | Description | Live |
 |---|---|---|
-| MomVerse | Email phishing detection tool — 47+ detection patterns | [Live](https://nomcebom-dev.github.io/momverse/) |
-| Calculator | Real-time IoT smart home monitoring dashboard | [Live]( https://nomcebom-dev.github.io/CalculatorApp/) |
-| MzansiBiz | Township business directory — 48 listings, live search | [Live](https://nomcebom-dev.github.io/mzansi-biz) |
-| ai animated lecturer-portfolio | AI-Assisted Animated Lecturer Portfolio Website—live lecturer portfolio website |[Live](https://nomcebom-dev.github.io/ai-animated-lecturer-portfolio) |
-| Compliment Generator | Email phishing detection tool — 47+ detection patterns | [Live](https://nomcebom-dev.github.io/ComplimentGenerator/) |
+| MomVerse | Interactive storytelling web experience built as a personal gift. Uses scroll-based navigation, animations, and immersive scenes to create an emotional digital journey through memories and messages.| [Live](https://nomcebom-dev.github.io/momverse/) |
+| Calculator | Real-time calculator application built with JavaScript, focusing on logic handling and clean UI interaction. | [Live]( https://nomcebom-dev.github.io/CalculatorApp/) |
+| MzansiBiz | Township business directory platform featuring 48+ listings with live search functionality for easy discovery of local businesses. | [Live](https://nomcebom-dev.github.io/mzansi-biz) |
+| ai animated lecturer-portfolio | Interactive portfolio website designed with a lecturer-style guided experience using animations and scroll-based storytelling. |[Live](https://nomcebom-dev.github.io/ai-animated-lecturer-portfolio) |
+| Compliment Generator | Simple interactive web app that generates random compliments to create a positive user experience using JavaScript DOM manipulation. | [Live](https://nomcebom-dev.github.io/ComplimentGenerator/) |
 
 ## 📫 Contact
 - Email: nomcebomtshali131@gmail.com
