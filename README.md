@@ -22,4 +22,4 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 - Portfolio: (https://nomcebom-dev.github.io)
 
 ## Education
-Dip in Information Technology specialising in Software Development — Belgium Campus ITversity (2024–present)
+Dip in Information Technology specialising in Software Development - Belgium Campus ITversity (2024–present)
