@@ -3,7 +3,7 @@
 Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 
 ## Skills
-- **Languages:** JavaScript · Python · C# · SQL · HTML5 
+- **Languages:** JavaScript · Python · C# · SQL · HTML5 · CSS3
 - **Learning:** Java · Linux
 - **Tools:** GitHub · VS Code 
 - **Other:** UI UX Design · Networking · Cybersecurity fundamentals
