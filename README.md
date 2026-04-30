@@ -16,7 +16,7 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 | MzansiBiz | Township business directory — 48 listings, live search | [Live](https://nomcebom-dev.github.io/mzansi-biz) |
 | ai animated lecturer-portfolio | AI-Assisted Animated Lecturer Portfolio Website — live lecturer portfolio website | 
 [Live](https://nomcebom-dev.github.io/ai-animated-lecturer-portfolio) |
-| Compliment Generator | Email phishing detection tool — 47+ detection patterns | [Live](https://nomcebom-dev.github.io/momverse/) |
+| Compliment Generator | Email phishing detection tool — 47+ detection patterns | [Live](https://nomcebom-dev.github.io/ComplimentGenerator/) |
 
 ## 📫 Contact
 - Email: nomcebomtshali131@gmail.com
