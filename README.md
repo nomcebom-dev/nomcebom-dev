@@ -6,7 +6,7 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 - **Languages:** JavaScript · Python · C# · SQL · HTML5 
 - **Learning:** Java · Linux
 - **Tools:** GitHub · VS Code 
-- **Other:** IoT concepts · Networking · Cybersecurity fundamentals
+- **Other:** UI UX Design · Networking · Cybersecurity fundamentals
 
 ## Projects
 | Project | Description | Live |
