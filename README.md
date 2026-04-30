@@ -3,9 +3,9 @@
 Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 
 ## 🛠 Skills
-- **Languages:** JavaScript · Python · C# · SQL · HTML5 · CSS3
-- **Learning:** Java
-- **Tools:** Git · GitHub · VS Code · Linux
+- **Languages:** JavaScript · Python · C# · SQL · HTML5 
+- **Learning:** Java · Linux
+- **Tools:** GitHub · VS Code 
 - **Other:** IoT concepts · Networking · Cybersecurity fundamentals
 
 ## 🚀 Projects
@@ -14,7 +14,7 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 | PhishGuard | Email phishing detection tool — 47+ detection patterns | [Live](https://nomcebom-dev.github.io/Phishguard/) |
 | NexaHome | Real-time IoT smart home monitoring dashboard | [Live](https://nomcebom-dev.github.io/smarthome-dashboard) |
 | MzansiBiz | Township business directory — 48 listings, live search | [Live](https://nomcebom-dev.github.io/mzansi-biz) |
-| Ubuntu Quiz | African history quiz — 30 questions, timer, scoring | [Live](https://nomcebom-dev.github.io/ubuntu-quiz) |
+| ai animated lecturer-portfolio | AI-Assisted Animated Lecturer Portfolio Website — live lecturer portfolio website | [Live](https://nomcebom-dev.github.io/ai-animated-lecturer-portfolio) |
 
 ## 📫 Contact
 - Email: nomcebomtshali131@gmail.com
