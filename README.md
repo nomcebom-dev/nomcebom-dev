@@ -1,14 +1,14 @@
-# Hi, I'm Nomcebo Mtshali 👋
+# Hi, I'm Nomcebo Mtshali
 
 Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 
-## 🛠 Skills
+## Skills
 - **Languages:** JavaScript · Python · C# · SQL · HTML5 
 - **Learning:** Java · Linux
 - **Tools:** GitHub · VS Code 
 - **Other:** IoT concepts · Networking · Cybersecurity fundamentals
 
-## 🚀 Projects
+## Projects
 | Project | Description | Live |
 |---|---|---|
 | MomVerse | Interactive storytelling web experience built as a personal gift. Uses scroll-based navigation, animations, and immersive scenes to create an emotional digital journey through memories and messages.| [Live](https://nomcebom-dev.github.io/momverse/) |
@@ -17,9 +17,9 @@ Junior Web Developer and Software Developer based in Johannesburg, South Africa.
 | ai animated lecturer-portfolio | Interactive portfolio website designed with a lecturer-style guided experience using animations and scroll-based storytelling. |[Live](https://nomcebom-dev.github.io/ai-animated-lecturer-portfolio) |
 | Compliment Generator | Simple interactive web app that generates random compliments to create a positive user experience using JavaScript DOM manipulation. | [Live](https://nomcebom-dev.github.io/ComplimentGenerator/) |
 
-## 📫 Contact
+## Contact
 - Email: nomcebomtshali131@gmail.com
 - Portfolio: (https://nomcebom-dev.github.io)
 
-## 🎓 Education
+## Education
 Dip in Information Technology specialising in Software Development — Belgium Campus ITversity (2024–present)
